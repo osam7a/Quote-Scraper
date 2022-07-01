@@ -1,5 +1,5 @@
 # Quote Generator Scrape
-This is a scraper for [Quotes Generator]("https://quotes-generator.com/quotes-generator.php) website
+This is a scraper for **[Quotes Generator](https://quotes-generator.com/quotes-generator.php])** website
 
 ## Requirements to run
 - Install selenium using `pip install selenium`
